@@ -1,68 +1,27 @@
-# [Start Bootstrap - Business Casual](https://startbootstrap.com/template-overviews/business-casual/)
+# lab-41
 
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+a [Sails v1](https://sailsjs.com) application
 
-## Preview
 
-[![Business Casual Preview](https://startbootstrap.com/assets/img/templates/business-casual.jpg)](https://blackrockdigital.github.io/startbootstrap-business-casual/)
+### Links
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-business-casual/)**
++ [Get started](https://sailsjs.com/get-started)
++ [Sails framework documentation](https://sailsjs.com/documentation)
++ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
++ [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
++ [Community support options](https://sailsjs.com/support)
++ [Professional / enterprise options](https://sailsjs.com/enterprise)
 
-## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-business-casual/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-business-casual.svg)](https://www.npmjs.com/package/startbootstrap-business-casual)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-business-casual.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-business-casual)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-business-casual?type=dev)
+### Version info
 
-## Download and Installation
+This app was originally generated on Fri Sep 28 2018 14:50:15 GMT+0800 (HKT) using Sails v1.0.2.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/business-casual/)
-* Install via npm: `npm i startbootstrap-business-casual`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-casual.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-business-casual)
+<!-- Internally, Sails used [`sails-generate@1.15.28`](https://github.com/balderdashy/sails-generate/tree/v1.15.28/lib/core-generators/new). -->
 
-## Usage
 
-### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+<!--
+Note:  Generators are usually run using the globally-installed `sails` CLI (command-line interface).  This CLI version is _environment-specific_ rather than app-specific, thus over time, as a project's dependencies are upgraded or the project is worked on by different developers on different computers using different versions of Node.js, the Sails dependency in its package.json file may differ from the globally-installed Sails CLI release it was originally generated with.  (Be sure to always check out the relevant [upgrading guides](https://sailsjs.com/upgrading) before upgrading the version of Sails used by your app.  If you're stuck, [get help here](https://sailsjs.com/support).)
+-->
 
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
-
-You must have npm and Gulp installed globally on your machine in order to use these features.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
